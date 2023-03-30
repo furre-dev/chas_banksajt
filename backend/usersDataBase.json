@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "username": "rrr",
+            "password": "rrr",
+            "id": "93efcc5f-ec09-4966-abb0-71cc763b8b1e"
+        },
+        {
+            "username": "kebab",
+            "password": "rrr",
+            "id": "899183a0-7c57-4028-8a6e-b3546e9b3cc0"
+        },
+        {
+            "username": "okasi",
+            "password": "654321",
+            "id": "c56924f5-edac-4a1a-9339-46a9bb8a69f9"
+        }
+    ]
+}

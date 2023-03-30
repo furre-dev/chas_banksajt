@@ -1,0 +1,19 @@
+{
+    "accounts": [
+        {
+            "id": "1628bf9a-d025-4530-8007-85069c1e0cc1",
+            "userId": "93efcc5f-ec09-4966-abb0-71cc763b8b1e",
+            "balance": "321"
+        },
+        {
+            "id": "5f05648d-466d-4004-9380-f034991ae827",
+            "userId": "899183a0-7c57-4028-8a6e-b3546e9b3cc0",
+            "balance": "32131231"
+        },
+        {
+            "id": "32b3cf5c-e519-4230-bf45-91f4ba3e14ad",
+            "userId": "c56924f5-edac-4a1a-9339-46a9bb8a69f9",
+            "balance": "1337"
+        }
+    ]
+}
