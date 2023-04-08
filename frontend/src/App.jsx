@@ -133,7 +133,7 @@ function App() {
 					className="bg-red-400 px-2 py-1 text-white rounded-lg"
 					onClick={() => handleCreateUser()}
 				>
-					Create
+					Sign Up!
 				</button>
 			</section>
 
@@ -171,16 +171,10 @@ function App() {
 
 				{userData ? (
 					<div className="flex flex-col items-center">
-						<button className="bg-red-400 px-2 py-1 text-white rounded-lg">
-							Hide balance
-						</button>
-						<p>Balance: {accountData?.balance || ""}</p>
+						<p>Balance: ${accountData?.balance || ""}</p>
 					</div>
 				) : (
 					<div className="hidden">
-						<button className="bg-red-400 px-2 py-1 text-white rounded-lg">
-							Hide balance
-						</button>
 						<p>Balance: {accountData?.balance || ""}</p>
 					</div>
 				)}

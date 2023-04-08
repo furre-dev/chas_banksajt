@@ -14,6 +14,11 @@
             "id": "32b3cf5c-e519-4230-bf45-91f4ba3e14ad",
             "userId": "c56924f5-edac-4a1a-9339-46a9bb8a69f9",
             "balance": "1337"
+        },
+        {
+            "id": "788fbae9-760e-481c-8dfc-e6be762a33ab",
+            "userId": "28e4984c-a94a-4ced-9081-d9d16498b5df",
+            "balance": "30000"
         }
     ]
 }
